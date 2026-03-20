@@ -32,7 +32,7 @@ The main module implements the data driver logic.
 ### Monitoring
 <img width="848" height="232" alt="image" src="https://github.com/user-attachments/assets/ef037663-5f65-41d7-8d86-941ef0003a4c" />
 
-###GTKwave Waveform
+### GTKwave Waveform
 
 <img width="2648" height="684" alt="image" src="https://github.com/user-attachments/assets/f406bace-8deb-40ff-b09f-85264fe452a9" />
 
